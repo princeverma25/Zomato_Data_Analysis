@@ -667,8 +667,8 @@
           </layout-options>
           <size maxheight='1550' minheight='1550' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='31' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='30' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='37' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='36' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone h='6125' id='29' type-v2='title' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -947,7 +947,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='19' />
+      <active id='-1' />
       <simple-id uuid='{1834A44B-AF0E-46A2-B712-244E439DAD9A}' />
     </window>
   </windows>
