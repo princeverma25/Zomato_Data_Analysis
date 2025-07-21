@@ -1,5 +1,5 @@
 
-# Zomato Data Cleaning Project
+# Zomato Data Analysis
 
 ## 📌 Description
 This Jupyter Notebook project cleans and preprocesses the **Zomato restaurant dataset** step by step.  
